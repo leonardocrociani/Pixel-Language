@@ -1,2 +1,2 @@
-# pixel-language
-Mini interprete in Ocaml per un linguaggio giocattolo
+# Pixel-Language
+Mini interpreter in Ocaml for a toy language
